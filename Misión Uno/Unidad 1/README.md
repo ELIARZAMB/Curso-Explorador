@@ -90,7 +90,7 @@ Uso de biñetas
 ## Imágenes
 
 <p align="center">
-<img src="imagen.png" height="100">
+<img src="C:\Users\labinf1.pasto\Documents\GitHub\Clase2Progr\Logos" height="100">
 </p>
 
 
